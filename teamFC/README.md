@@ -51,19 +51,19 @@ Here are some major frameworks that we used to built our project.
 HELP
 -----
 
--add={negative message}   -> to add message   
+- add={negative message}   -> to add message   
 
--/negative               -> for random negativity
+- /negative               -> for random negativity
 
--/onfire                  -> Mr.Negativoli on FIRE !!!
+- /onfire                  -> Mr.Negativoli on FIRE !!!
 
--del={message}           -> to delete message
+- del={message}           -> to delete message
 
--/help                              -> help
+- /help                              -> help
 
 #Example
 ------
--add=you cant do that
+- add=you cant do that
 
 
 ## Contributers
